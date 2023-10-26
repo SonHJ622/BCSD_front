@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+.input{
+    display: grid;
+    row-gap: 10px;
+    justify-content: center;
+}

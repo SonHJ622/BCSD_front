@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.input{
+    display: grid;
+    row-gap: 10px;
+    justify-content: center;
+}
+.BC{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    
+}
+.hyper{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+}
